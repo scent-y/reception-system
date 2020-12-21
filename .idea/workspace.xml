@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="26031381-5cf4-4c56-8543-005a723c2da3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ElmWorkspace">
+    <elmProjects />
+    <settings elmCompilerPath="" elmFormatPath="" elmTestPath="" isElmFormatOnSaveEnabled="false" />
+  </component>
+  <component name="ProjectId" id="1lxZ97fSSzmKEVFisXZMv3kRQvk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="org.elm.workspace.PROJECT_DISCOVERY" value="true" />
+    <property name="settings.editor.selected.configurable" value="org.elm.workspace.ui.ElmWorkspaceConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26031381-5cf4-4c56-8543-005a723c2da3" name="Default Changelist" comment="" />
+      <created>1608540549232</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608540549232</updated>
+      <workItem from="1608540550376" duration="443000" />
+      <workItem from="1608541015335" duration="1033000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="480" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1608541275680">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="480" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.738@0.0.1366.738" timestamp="1608541275680" />
+    <state x="258" y="9" key="SettingsEditor" timestamp="1608541036961">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="258" y="9" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1608541036961" />
+    <state x="461" y="0" width="577" height="738" key="find.popup" timestamp="1608541354756">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="461" y="0" width="577" height="738" key="find.popup/0.0.1366.738@0.0.1366.738" timestamp="1608541354756" />
+    <state x="413" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1608541358493">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="413" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1608541358493" />
+  </component>
+</project>

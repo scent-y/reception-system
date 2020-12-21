@@ -1,0 +1,21 @@
+{
+  "name": "client-appointment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "node node_modules/node-web-server/bin/nws localhost:8080",
+    "dev-build": "elm make src/Main.elm --output=elm.js",
+    "prod-build": "elm make src/Main.elm --optimize --output=elm1.js && uglifyjs elm1.js --compress 'pure_funcs=\"F2,F3,F4,F5,F6,F7,F8,F9,A2,A3,A4,A5,A6,A7,A8,A9\",pure_getters,keep_fargs=false,unsafe_comps,unsafe' | uglifyjs --mangle --output=elm.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-web-server": "^1.1.4"
+  },
+  "dependencies": {
+    "bulma": "^0.8.0",
+    "elm-test": "0.19.0",
+    "uglify-js": "^3.9.4"
+  }
+}
